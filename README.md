@@ -1,4 +1,4 @@
 <h1>CODIGO EN PYTHON SOBRE LAS ITERACIONES DE NEWTON RAPHSON<h1>
 
-<h5>Helman Andres Leon Celemin 01240371043<h5>
-<h5>Jorge Armando Rincones Torres 01240371004<h5>
+<h3>Helman Andres Leon Celemin 01240371043<h3>
+<h3>Jorge Armando Rincones Torres 01240371004<h3>
